@@ -12,7 +12,7 @@ Interface de login usando LinearGradient
 <br />
 <p align="center">
   <a href="https://josiaspereira.com.br">
-    <img src="https://josiaspereira.com.br/content/images/2020/04/Ativo-27-2.png" width="432" height="105" alt="Logo">
+    <img src="https://josiaspereira.com.br/content/images/2020/04/Ativo-27-2.png" width="400" height="50" alt="Logo">
   </a>
 
 </p>
