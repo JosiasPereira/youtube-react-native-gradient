@@ -17,6 +17,13 @@ Interface de login usando LinearGradient
 
 </p>
 
+## 🚀 Como usar
+- Close o repositório `git close https://github.com/JosiasPereira/youtube-react-native-gradient.git`.
+- Instale o Expo
+```npm install --global expo-cli```.
+- Instale as depedências `yarn install` ou `npm install`.
+- Rode com `expo start`.
+
 <!-- CONTACT -->
 
 ## Contato
