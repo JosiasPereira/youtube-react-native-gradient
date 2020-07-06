@@ -18,7 +18,7 @@ Interface de login usando LinearGradient
 </p>
 
 ## 🚀 Como usar
-- Clone o repositório `git close https://github.com/JosiasPereira/youtube-react-native-gradient.git`.
+- Clone o repositório `git clone https://github.com/JosiasPereira/youtube-react-native-gradient.git`.
 - Instale o Expo
 ```npm install --global expo-cli```.
 - Instale as depedências `yarn install` ou `npm install`.
